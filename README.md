@@ -67,7 +67,7 @@ This Power BI dashboard helps stakeholders at Blinkit:
 
 ## 📣 Contact
 
-For queries, suggestions, or collaboration, feel free to reach out to the project owner.
+For queries, suggestions, or collaboration, feel free to reach out to me .
 
 ---
 
