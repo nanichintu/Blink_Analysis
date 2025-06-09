@@ -54,8 +54,8 @@ The project follows a structured workflow to ensure data integrity and analytica
 
 - **Power BI Desktop**
 - **DAX (Data Analysis Expressions)**
-- **Power Query (M Language)**
-- **Data Modeling Techniques**
+- **Power Query**
+
 
 ---
 
