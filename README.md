@@ -1,4 +1,4 @@
-# Blink_Analysis
+# Blinkit_Analysis
 
 You can view the live Power BI report by clicking the link below:
 
