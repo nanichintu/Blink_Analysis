@@ -1,5 +1,9 @@
 # Blink_Analysis
 
+You can view the live Power BI report by clicking the link below:
+
+🔗 [View Live Report on Power BI](https://app.powerbi.com/view?r=eyJrIjoiMmMyNzFiNTYtMWNlMi00Zjk3LWE1M2QtZjgyOGU3MGQ5YTA3IiwidCI6ImM2NDk4YWJmLWUyOTYtNDkzNy04YzJhLTJmYTlhZDM3YzFjYSJ9)
+
 ## 📊 Project Overview
 
 **Blink_Analysis** is a comprehensive Power BI dashboard project aimed at analyzing Blinkit's sales performance, customer satisfaction, and inventory distribution. The goal is to generate key insights and identify areas for business optimization through data visualization and performance indicators.
