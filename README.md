@@ -6,8 +6,7 @@ You can view the live Power BI report by clicking the link below:
 
 ## 📊 Project Overview
 
-**Blink_Analysis** I worked on a grocery delivery analysis project using Blinkit data in Import mode. The project began with exploratory data analysis (EDA), where I handled data cleaning and managed missing values using Power Query Editor in Power BI. After preparing the data model, I designed and developed a single-page interactive dashboard to provide key business insights.
-
+**Blink_Analysis** I worked on a grocery delivery analysis project using Blinkit data in Import mode. The project began with exploratory data analysis (EDA), where I handled data cleaning and managed missing values using Power Query Editor in Power BI. After preparing the data model, I designed and developed a single-page interactive dashboard to provide key business insights
 The report was then published to the Power BI Service, where I configured scheduled data refreshes at defined intervals. Leveraging a Power BI Premium license, I implemented a deployment pipeline to seamlessly transition the report from development to production environments. This end-to-end project provided me with valuable hands-on experience in the design, development, and deployment of business intelligence solutions using Power BI i need shoter way in resume
 ---
 
